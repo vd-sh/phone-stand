@@ -27,12 +27,12 @@ Click [here](https://cad.onshape.com/documents/47d2c0bef5caa405116c1f2e/w/c4929c
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive!
 5. You will need superglue to assemble this phone stand
-6. As shown in image you will slide down and lock in the screw with the knob and the end point in the base case
-7. Use superglue to stick the end case, AFTER putting in the shifter in the screw to lock in
-8. Once done use the stem and superglue to lock in the support in the place as shown in image
-9. Now, Stick the lockers and shifter systems so that the rotating knob directly changes the incline of the support.
-10. I will soon upload a video of assembling it as soon as I get my phone stand shipped
-11. Thats it! Go mount your phone!
+6. As shown in the image, you will slide down and lock in the screw with the knob and the end point in the base case
+7. Use superglue to stick the end case, AFTER putting the shifter in the screw to lock in
+8. Once done, use the stem and superglue to lock the support in place as shown in the image
+9. Now, stick the lockers and shifter systems so that the rotating knob directly changes the incline of the support.
+10. I will upload a video of assembling it as soon as I get my phone stand shipped
+11. That's it! Mount your phone!
 
 ## [BOM](BOM.csv) as a table
 | Item     | Description  | Quantity | Price (USD) | Link                             |
