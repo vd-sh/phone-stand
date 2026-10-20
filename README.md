@@ -4,9 +4,9 @@ Phone stand is a simple stand to mount your phone with adjustability.
 ## What is this?
 Phone Stand is basically a simple phone stand to mount your phone, as the name suggests. Designed from scratch in Onshape, it allows you to mount your phone from 200 degrees to 0 degrees (actual useful range: 90-0 degrees). Change the angle with a simple onboard knob. It also has a sleek, cool orange-and-white look.
 
-<img src="Assets/Screenshot-2026-10-14-152252.png" alt="image 1 of phone stand" width="400">
+<img src="Assets/Screenshot-2026-10-20-110511.png" alt="image 1 of phone stand" width="400">
 
-<img src="Assets/Screenshot-2026-10-14-152342.png" alt="image 2 of phone stand" width="400">
+<img src="Assets/Screenshot-2026-10-20-110545.png" alt="image 2 of phone stand" width="400">
 
 ## Repository Structure
 ```text
@@ -15,7 +15,7 @@ phone-stand/
 2] Hardware/--> Source design files
 3] BOM.csv----> Bill of materials
 4] LICENSE----> MIT License
-5] README.md --> Detailed project documentation and instructions
+5] README.md--> Detailed project documentation and instructions
 ```
 
 ## Live 3d view in Onshape
